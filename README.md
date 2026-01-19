@@ -32,3 +32,19 @@ Every project represents a step forward — from simple console games to real ma
 Beginner ───────► Intermediate ───────► Advanced
    └─ Console games     └─ First ML model     └─ Neural nets / Deep Learning
          └─ OOP & structure          └─ Data preprocessing & visualization
+
+Feel free to explore the folders in any order — but they are roughly arranged from earliest to most recent projects.
+Future Plans / Coming Soon
+
+More advanced ML projects (regression, clustering, ensemble methods)
+Deep Learning / Neural Networks
+Data visualization dashboards
+Natural Language Processing experiments
+Personal data analysis projects
+
+Connect & Follow My Journey
+Any feedback, suggestions or code reviews are very welcome!
+Feel free to open an issue or pull request.
+Happy coding! 🐍✨
+Last updated: January 2026
+
