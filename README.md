@@ -20,7 +20,7 @@ Every project represents a step forward — from simple console games to real ma
 | #  | Project Name              | Description                                      | Key Topics / Skills Demonstrated                  | Status     |
 |----|---------------------------|--------------------------------------------------|---------------------------------------------------|------------|
 | 1  | [Rock Paper Scissors](1st%20Project-%20RPS/)     | Classic Rock-Paper-Scissors game                 | Basic Python, conditionals, loops, user input     | Completed  |
-| 2  | [Washing up](2nd%20Project%20-%20Washing%20up/)  | (Most likely a fun/practical automation/script)  | Functions, logic, possibly file handling / OOP    | Completed  |
+| 2  | [Washing up](2nd%20Project%20-%20Washing%20up/)  | (automation/script)                              | Functions, logic, possibly file handling / OOP    | Completed  |
 | 3  | [Iris Classification](3rd%20Project%20-%20Iris/) | Classic ML beginner project – classifying iris flowers | Data loading, cleaning, scikit-learn, classification models | Completed  |
 | 4  | [Snake Game](4th%20Project%20-%20Snake/)         | Classic Snake game (most likely using Pygame)    | OOP, event handling, game loops, graphics         | Completed  |
 
